@@ -1,19 +1,20 @@
+- [x] homebrew
 - [x] snapd - package manager
 - [x] terminator - terminal emulator
 - [x] google-chrome
-- [ ] nvim - nvchad (install intelij nerd front)
-- [ ] node.js
-- [ ] ripgrep,fzf,exa
-- [ ] rust
-- [ ] postman - For API Dev
-- [ ] vscode
-- [ ] free download manager
-- [ ] k8s lens
-- [ ] docker engine
-- [ ] terraform
-- [ ] aws,azure cli
-- [ ] git,gh
-- [ ] conda
+- [x] nvim - nvchad (install intelij nerd front)
+- [x] node.js - pnpm
+- [x] ripgrep,fzf,exa
+- [x] rust
+- [x] postman
+- [x] vscode
+- [x] free download manager
+- [x] k8s lens
+- [x] docker engine
+- [x] terraform
+- [x] aws,azure cli
+- [x] git,gh
+- [x] conda
 
 
 
